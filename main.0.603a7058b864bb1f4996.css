@@ -1,0 +1,1 @@
+body{max-width:1200px}.gallery{display:grid;grid-template-columns:repeat(3,1fr);grid-column-gap:20px}.photo-card{border:1px solid teal;margin-bottom:20px}.image-wrapper{max-height:200px;overflow:hidden}.photo-card img{height:auto;max-width:100%}.stats{display:-webkit-box;display:flex;flex-wrap:wrap;justify-content:space-around}
